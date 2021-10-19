@@ -1,0 +1,13 @@
+La directory corrente contiene al suo interno:
+- la relazione progettuale
+- directory fridge 
+- directory dishwasher
+
+Ciascuna directory contiene:
+1- notebook Train&Validation(nome dispositivo): contiene il codice utilizzato per il tuning dei parametri
+2- notebook Train&Test(nome dispositivo): contiene il codice utilizzato per il training sul dataset totale
+3- notebook Test Finale(nome dispositivo): codice da utilizzare sul testset
+4- modelli salvati da utilizzare per il test
+
+Nota: Inserire il test-set nella cartella ProveFinali.
+Nota2: Modificare i path in base alle esigenze.
